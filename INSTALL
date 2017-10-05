@@ -1,0 +1,9 @@
+Building Azercoin
+
+See doc/readme-qt.rst for instructions on building Azercoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Azercoin.
+
+See doc/build-*.txt for instructions on building azercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Azercoin.
