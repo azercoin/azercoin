@@ -3,8 +3,6 @@ Azercoin integration/staging tree
 
 http://www.azercoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Azercoin Developers
 
 What is Azercoin?
 ----------------
